@@ -62,7 +62,7 @@ ViajesChile2.0-DesafioLatam/
 ## Tecnologías Utilizadas
 
 - **HTML5**: Para la estructura del sitio web.
-- **SASS**: Para el diseño y la presentación del sitio web.
+- **SASS**: Para el diseño y la presentación del sitio web. Los archivos SASS están organizados siguiendo la metodología 7-1 para mantener el código modular y fácil de mantener.
 - **Bootstrap 5.3.3**: Framework CSS para facilitar el diseño responsivo y componentes predefinidos.
 - **Font Awesome**: Biblioteca de iconos. Se utilizaron los iconos:
     ```html
