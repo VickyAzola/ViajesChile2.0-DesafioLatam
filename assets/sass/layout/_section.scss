@@ -1,0 +1,32 @@
+.testimonio {
+  &__title {
+    padding-bottom: 1rem;
+    margin-top: 1rem;
+  }
+
+  &__item {
+    margin-top: 1rem;
+  }
+
+  &__text {
+    margin-top: 1rem;
+  }
+}
+
+@media screen and (width > 768px) {
+  .testimonio {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    grid-template-rows: auto auto;
+    column-gap: 1.8rem;
+  
+    &__title {
+      grid-column: 1 / -1; // Ocupa toda la primera fila
+      grid-row: 1;
+    }
+  
+    &__item {
+      grid-row: 2;
+    }
+  }
+}

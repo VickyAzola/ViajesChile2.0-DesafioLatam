@@ -1,0 +1,17 @@
+.testimonio {
+  &__title {
+    border-bottom: 1px solid $gray-300;
+  }
+
+  &__description {
+    color: $gray-400;
+  }
+  
+  &__img {
+    margin-block: .5rem;
+    height: 5rem;
+    width: 5rem;
+    border-radius: 50%;
+    border: 1px solid white;
+  }
+} 

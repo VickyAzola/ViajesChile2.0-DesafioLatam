@@ -1,0 +1,22 @@
+nav .navbar-collapse {
+  background-color: rgba(250, 250, 250, 0.9);
+  border-radius: .5rem;
+  padding: 1rem 0;
+}
+
+nav .navbar-collapse .nav-link {
+  color: black;
+}
+
+@media screen and (width >= 992px) {
+  nav .navbar-collapse {
+      background-color: transparent;
+      border-radius: 0;
+      padding: 0;
+  }
+
+  nav .navbar-collapse .nav-link {
+      color: white;
+  }
+  
+}
