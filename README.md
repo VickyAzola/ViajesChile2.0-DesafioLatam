@@ -11,7 +11,7 @@
 ## Descripción
 
 Viajes Chile es una página web creada para ofrecer información sobre destinos turísticos en Chile, 
-mostrar los lugares más destacados y permitir a los usuarios poneese en contacto con los dueños 
+mostrar los lugares más destacados y permitir a los usuarios ponerse en contacto con los dueños 
 para obtener más información. La página incluye una barra de navegación, un carrusel de imágenes, 
 secciones informativas y un formulario de contacto.
 
@@ -40,7 +40,7 @@ ViajesChile2.0-DesafioLatam/
 │        │     └── _tipography.scss
 │        ├── components/
 │        │     ├── _nav.scss
-│        │     └── _testimoby.scss
+│        │     └── _testimony.scss
 │        ├── layout/
 │        │     ├── _carousel.scss
 │        │     ├── _form.scss
