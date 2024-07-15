@@ -89,7 +89,11 @@ ViajesChile2.0-DesafioLatam/
     ```bash
     cd ViajesChile2.0-DesafioLatam
     ```
-3. Abrir `index.html` en tu navegadorpara ver el sitio web.
+3. **Instala las dependecias necesarias**
+    ```bash
+    npm install
+    ```
+4. Abrir `index.html` en tu navegadorpara ver el sitio web.
 
 
 ## Autores
